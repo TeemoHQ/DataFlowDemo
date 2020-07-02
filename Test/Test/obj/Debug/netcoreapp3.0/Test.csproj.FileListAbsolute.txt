@@ -1,0 +1,14 @@
+G:\projects\Test\Test\Test\Test\bin\Debug\netcoreapp3.0\Test.exe
+G:\projects\Test\Test\Test\Test\obj\Debug\netcoreapp3.0\Test.csprojAssemblyReference.cache
+G:\projects\Test\Test\Test\Test\obj\Debug\netcoreapp3.0\Test.AssemblyInfoInputs.cache
+G:\projects\Test\Test\Test\Test\obj\Debug\netcoreapp3.0\Test.AssemblyInfo.cs
+G:\projects\Test\Test\Test\Test\bin\Debug\netcoreapp3.0\Test.deps.json
+G:\projects\Test\Test\Test\Test\bin\Debug\netcoreapp3.0\Test.runtimeconfig.json
+G:\projects\Test\Test\Test\Test\bin\Debug\netcoreapp3.0\Test.runtimeconfig.dev.json
+G:\projects\Test\Test\Test\Test\bin\Debug\netcoreapp3.0\Test.dll
+G:\projects\Test\Test\Test\Test\bin\Debug\netcoreapp3.0\Test.pdb
+G:\projects\Test\Test\Test\Test\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+G:\projects\Test\Test\Test\Test\obj\Debug\netcoreapp3.0\Test.csproj.CopyComplete
+G:\projects\Test\Test\Test\Test\obj\Debug\netcoreapp3.0\Test.dll
+G:\projects\Test\Test\Test\Test\obj\Debug\netcoreapp3.0\Test.pdb
+G:\projects\Test\Test\Test\Test\obj\Debug\netcoreapp3.0\Test.genruntimeconfig.cache
